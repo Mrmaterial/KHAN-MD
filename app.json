@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "IK~bB1xjayb#A6sT4Q7JLuBid5qsqaPAaGN6R0YzdpmVPSTs9Lor1NA"
     },  
     
     "STICKER_NAME": {
@@ -34,13 +34,13 @@
     "ALWAYS_ONLINE": {
       "description": "Keep bot always online when receiving messages. Options: 'true' or 'false'",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Show typing indicator when receiving messages. Options: 'true' (both), 'ib' (inbox only), 'group' (group only), 'false' (disabled)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     
@@ -101,7 +101,7 @@
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -113,19 +113,19 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY AHMED-KING 🖤*"
     }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Ahmed King"
     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923427582273"
+      "value": "255679695311"
     }, 
 
     "BOT_NAME": {
@@ -191,7 +191,7 @@
     "ADMIN_ACTION": {
       "description": "make it true if want know who promote or demote a member .",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "WELCOME": {
